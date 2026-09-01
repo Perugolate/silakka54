@@ -2,3 +2,6 @@
 .DS_Store
 /kicad/silakka54-backups
 kicad/fp-info-cache
+
+# real address lives here; commit super_leader.def.example instead
+firmware/keymaps/*/super_leader.def
